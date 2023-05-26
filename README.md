@@ -4,7 +4,7 @@
 
 This application displays a calendar block for the current day. You're able to save notes to the text areas in the middle of each hour block. The hour blocks have been color coded based on the current time.
 
-![Work Schedule With Notes](assets/images/work-day-scheduler-demo-readme.png?raw=true)
+![Work Schedule With Notes](Assets/images/work-day-scheduler-demo-readme.png?raw=true)
 
 ## Usage
 
