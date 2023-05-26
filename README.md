@@ -9,6 +9,6 @@ This application displays a calendar block for the current day. You're able to s
 ## Usage
 
 View the app!
-https://thepebble01.github.io/Password-Generator/
+https://thepebble01.github.io/work-schedule-calendar
 
 Click the area to the right of the hour's label to add notes. Simply click the save icon in order to save the note so that you can review it the next time you open the page!
